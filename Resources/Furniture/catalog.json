@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "kenney:bathroomCabinet",
+    "title": "浴室柜",
+    "category": "卫浴洗衣",
+    "file": "Models/bathroomCabinet.obj",
+    "preview": "Previews/bathroomCabinet.png",
+    "width": 0.46,
+    "depth": 0.26,
+    "keywords": "bathroomCabinet Kenney"
+  },
+  {
+    "id": "kenney:bathroomMirror",
+    "title": "浴室镜子",
+    "category": "卫浴洗衣",
+    "file": "Models/bathroomMirror.obj",
+    "preview": "Previews/bathroomMirror.png",
+    "width": 0.603,
+    "depth": 0.289,
+    "keywords": "bathroomMirror Kenney"
+  },
+  {
+    "id": "kenney:bathroomSink",
+    "title": "浴室洗手池",
+    "category": "卫浴洗衣",
+    "file": "Models/bathroomSink.obj",
+    "preview": "Previews/bathroomSink.png",
+    "width": 0.68,
+    "depth": 0.58,
+    "keywords": "bathroomSink Kenney"
+  },
+  {
+    "id": "kenney:bathtub",
+    "title": "浴缸",
+    "category": "卫浴洗衣",
+    "file": "Models/bathtub.obj",
+    "preview": "Previews/bathtub.png",
+    "width": 2.38,
+    "depth": 1.12,
+    "keywords": "bathtub Kenney"
+  },
+  {
+    "id": "kenney:bear",
+    "title": "玩具熊",
+    "category": "装饰",
+    "file": "Models/bear.obj",
+    "preview": "Previews/bear.png",
+    "width": 0.779,
+    "depth": 0.495,
+    "keywords": "bear Kenney"
+  },
+  {
+    "id": "kenney:bedBunk",
+    "title": "双层床",
+    "category": "卧室",
+    "file": "Models/bedBunk.obj",
+    "preview": "Previews/bedBunk.png",
+    "width": 1.142,
+    "depth": 2.19,
+    "keywords": "bedBunk Kenney"
+  },
+  {
+    "id": "kenney:bedDouble",
+    "title": "双人床",
+    "category": "卧室",
+    "file": "Models/bedDouble.obj",
+    "preview": "Previews/bedDouble.png",
+    "width": 1.912,
+    "depth": 2.25,
+    "keywords": "bedDouble Kenney"
+  },
+  {
+    "id": "kenney:bedSingle",
+    "title": "单人床",
+    "category": "卧室",
+    "file": "Models/bedSingle.obj",
+    "preview": "Previews/bedSingle.png",
+    "width": 1.142,
+    "depth": 2.25,
+    "keywords": "bedSingle Kenney"
+  },
+  {
+    "id": "kenney:bench",
+    "title": "长凳",
+    "category": "客厅餐厅",
+    "file": "Models/bench.obj",
+    "preview": "Previews/bench.png",
+    "width": 0.8,
+    "depth": 0.4,
+    "keywords": "bench Kenney"
+  },
+  {
+    "id": "kenney:benchCushion",
+    "title": "长凳软垫",
+    "category": "客厅餐厅",
+    "file": "Models/benchCushion.obj",
+    "preview": "Previews/benchCushion.png",
+    "width": 0.8,
+    "depth": 0.4,
+    "keywords": "benchCushion Kenney"
+  },
+  {
+    "id": "kenney:benchCushionLow",
+    "title": "长凳软垫矮款",
+    "category": "客厅餐厅",
+    "file": "Models/benchCushionLow.obj",
+    "preview": "Previews/benchCushionLow.png",
+    "width": 0.84,
+    "depth": 0.44,
+    "keywords": "benchCushionLow Kenney"
+  },
+  {
+    "id": "kenney:bookcaseClosed",
+    "title": "封闭书柜",
+    "category": "书房",
+    "file": "Models/bookcaseClosed.obj",
+    "preview": "Previews/bookcaseClosed.png",
+    "width": 0.8,
+    "depth": 0.5,
+    "keywords": "bookcaseClosed Kenney"
+  },
+  {
+    "id": "kenney:bookcaseClosedDoors",
+    "title": "双门书柜",
+    "category": "书房",
+    "file": "Models/bookcaseClosedDoors.obj",
+    "preview": "Previews/bookcaseClosedDoors.png",
+    "width": 0.8,
+    "depth": 0.5,
+    "keywords": "bookcaseClosedDoors Kenney"
+  },
+  {
+    "id": "kenney:bookcaseClosedWide",
+    "title": "加宽书柜",
+    "category": "书房",
+    "file": "Models/bookcaseClosedWide.obj",
+    "preview": "Previews/bookcaseClosedWide.png",
+    "width": 1.6,
+    "depth": 0.5,
+    "keywords": "bookcaseClosedWide Kenney"
+  },
+  {
+    "id": "kenney:bookcaseOpen",
+    "title": "开放书架",
+    "category": "书房",
+    "file": "Models/bookcaseOpen.obj",
+    "preview": "Previews/bookcaseOpen.png",
+    "width": 0.8,
+    "depth": 0.5,
+    "keywords": "bookcaseOpen Kenney"
+  },
+  {
+    "id": "kenney:bookcaseOpenLow",
+    "title": "矮书架",
+    "category": "书房",
+    "file": "Models/bookcaseOpenLow.obj",
+    "preview": "Previews/bookcaseOpenLow.png",
+    "width": 0.8,
+    "depth": 0.5,
+    "keywords": "bookcaseOpenLow Kenney"
+  },
+  {
+    "id": "kenney:books",
+    "title": "书本",
+    "category": "书房",
+    "file": "Models/books.obj",
+    "preview": "Previews/books.png",
+    "width": 0.301,
+    "depth": 0.189,
+    "keywords": "books Kenney"
+  },
+  {
+    "id": "kenney:cabinetBed",
+    "title": "床头柜",
+    "category": "卧室",
+    "file": "Models/cabinetBed.obj",
+    "preview": "Previews/cabinetBed.png",
+    "width": 0.532,
+    "depth": 0.43,
+    "keywords": "cabinetBed Kenney"
+  },
+  {
+    "id": "kenney:cabinetBedDrawer",
+    "title": "抽屉床头柜",
+    "category": "卧室",
+    "file": "Models/cabinetBedDrawer.obj",
+    "preview": "Previews/cabinetBedDrawer.png",
+    "width": 0.532,
+    "depth": 0.435,
+    "keywords": "cabinetBedDrawer Kenney"
+  },
+  {
+    "id": "kenney:cabinetBedDrawerTable",
+    "title": "床头边桌",
+    "category": "卧室",
+    "file": "Models/cabinetBedDrawerTable.obj",
+    "preview": "Previews/cabinetBedDrawerTable.png",
+    "width": 0.532,
+    "depth": 0.435,
+    "keywords": "cabinetBedDrawerTable Kenney"
+  },
+  {
+    "id": "kenney:cabinetTelevision",
+    "title": "电视柜",
+    "category": "客厅餐厅",
+    "file": "Models/cabinetTelevision.obj",
+    "preview": "Previews/cabinetTelevision.png",
+    "width": 1.6,
+    "depth": 0.5,
+    "keywords": "cabinetTelevision Kenney"
+  },
+  {
+    "id": "kenney:cabinetTelevisionDoors",
+    "title": "带门电视柜",
+    "category": "客厅餐厅",
+    "file": "Models/cabinetTelevisionDoors.obj",
+    "preview": "Previews/cabinetTelevisionDoors.png",
+    "width": 1.6,
+    "depth": 0.52,
+    "keywords": "cabinetTelevisionDoors Kenney"
+  },
+  {
+    "id": "kenney:cardboardBoxClosed",
+    "title": "纸箱封闭",
+    "category": "装饰",
+    "file": "Models/cardboardBoxClosed.obj",
+    "preview": "Previews/cardboardBoxClosed.png",
+    "width": 0.425,
+    "depth": 0.425,
+    "keywords": "cardboardBoxClosed Kenney"
+  },
+  {
+    "id": "kenney:cardboardBoxOpen",
+    "title": "纸箱开放",
+    "category": "装饰",
+    "file": "Models/cardboardBoxOpen.obj",
+    "preview": "Previews/cardboardBoxOpen.png",
+    "width": 0.744,
+    "depth": 0.425,
+    "keywords": "cardboardBoxOpen Kenney"
+  },
+  {
+    "id": "kenney:ceilingFan",
+    "title": "吊扇",
+    "category": "灯具",
+    "file": "Models/ceilingFan.obj",
+    "preview": "Previews/ceilingFan.png",
+    "width": 0.909,
+    "depth": 1.05,
+    "keywords": "ceilingFan Kenney"
+  },
+  {
+    "id": "kenney:chair",
+    "title": "椅子",
+    "category": "客厅餐厅",
+    "file": "Models/chair.obj",
+    "preview": "Previews/chair.png",
+    "width": 0.4,
+    "depth": 0.4,
+    "keywords": "chair Kenney"
+  },
+  {
+    "id": "kenney:chairCushion",
+    "title": "椅子软垫",
+    "category": "客厅餐厅",
+    "file": "Models/chairCushion.obj",
+    "preview": "Previews/chairCushion.png",
+    "width": 0.4,
+    "depth": 0.4,
+    "keywords": "chairCushion Kenney"
+  },
+  {
+    "id": "kenney:chairDesk",
+    "title": "椅子办公",
+    "category": "书房",
+    "file": "Models/chairDesk.obj",
+    "preview": "Previews/chairDesk.png",
+    "width": 0.67,
+    "depth": 0.629,
+    "keywords": "chairDesk Kenney"
+  },
+  {
+    "id": "kenney:chairRounded",
+    "title": "椅子圆角",
+    "category": "客厅餐厅",
+    "file": "Models/chairRounded.obj",
+    "preview": "Previews/chairRounded.png",
+    "width": 0.4,
+    "depth": 0.4,
+    "keywords": "chairRounded Kenney"
+  },
+  {
+    "id": "kenney:coatRack",
+    "title": "衣帽架",
+    "category": "装饰",
+    "file": "Models/coatRack.obj",
+    "preview": "Previews/coatRack.png",
+    "width": 0.896,
+    "depth": 0.269,
+    "keywords": "coatRack Kenney"
+  },
+  {
+    "id": "kenney:coatRackStanding",
+    "title": "衣帽架落地",
+    "category": "装饰",
+    "file": "Models/coatRackStanding.obj",
+    "preview": "Previews/coatRackStanding.png",
+    "width": 0.546,
+    "depth": 0.546,
+    "keywords": "coatRackStanding Kenney"
+  },
+  {
+    "id": "kenney:computerKeyboard",
+    "title": "电脑键盘",
+    "category": "书房",
+    "file": "Models/computerKeyboard.obj",
+    "preview": "Previews/computerKeyboard.png",
+    "width": 0.564,
+    "depth": 0.236,
+    "keywords": "computerKeyboard Kenney"
+  },
+  {
+    "id": "kenney:computerMouse",
+    "title": "电脑鼠标",
+    "category": "书房",
+    "file": "Models/computerMouse.obj",
+    "preview": "Previews/computerMouse.png",
+    "width": 0.099,
+    "depth": 0.17,
+    "keywords": "computerMouse Kenney"
+  },
+  {
+    "id": "kenney:computerScreen",
+    "title": "电脑显示器",
+    "category": "书房",
+    "file": "Models/computerScreen.obj",
+    "preview": "Previews/computerScreen.png",
+    "width": 0.785,
+    "depth": 0.208,
+    "keywords": "computerScreen Kenney"
+  },
+  {
+    "id": "kenney:desk",
+    "title": "书桌",
+    "category": "书房",
+    "file": "Models/desk.obj",
+    "preview": "Previews/desk.png",
+    "width": 1.469,
+    "depth": 0.785,
+    "keywords": "desk Kenney"
+  },
+  {
+    "id": "kenney:deskCorner",
+    "title": "书桌转角",
+    "category": "书房",
+    "file": "Models/deskCorner.obj",
+    "preview": "Previews/deskCorner.png",
+    "width": 1.949,
+    "depth": 1.949,
+    "keywords": "deskCorner Kenney"
+  },
+  {
+    "id": "kenney:doorway",
+    "title": "门框",
+    "category": "建筑",
+    "file": "Models/doorway.obj",
+    "preview": "Previews/doorway.png",
+    "width": 0.972,
+    "depth": 0.227,
+    "keywords": "doorway Kenney"
+  },
+  {
+    "id": "kenney:doorwayFront",
+    "title": "门框入户",
+    "category": "建筑",
+    "file": "Models/doorwayFront.obj",
+    "preview": "Previews/doorwayFront.png",
+    "width": 0.972,
+    "depth": 0.227,
+    "keywords": "doorwayFront Kenney"
+  },
+  {
+    "id": "kenney:doorwayOpen",
+    "title": "门框开放",
+    "category": "建筑",
+    "file": "Models/doorwayOpen.obj",
+    "preview": "Previews/doorwayOpen.png",
+    "width": 0.972,
+    "depth": 0.178,
+    "keywords": "doorwayOpen Kenney"
+  },
+  {
+    "id": "kenney:dryer",
+    "title": "烘干机",
+    "category": "卫浴洗衣",
+    "file": "Models/dryer.obj",
+    "preview": "Previews/dryer.png",
+    "width": 0.78,
+    "depth": 0.76,
+    "keywords": "dryer Kenney"
+  },
+  {
+    "id": "kenney:floorCorner",
+    "title": "地板转角",
+    "category": "建筑",
+    "file": "Models/floorCorner.obj",
+    "preview": "Previews/floorCorner.png",
+    "width": 1.1,
+    "depth": 1.1,
+    "keywords": "floorCorner Kenney"
+  },
+  {
+    "id": "kenney:floorCornerRound",
+    "title": "地板转角圆形",
+    "category": "建筑",
+    "file": "Models/floorCornerRound.obj",
+    "preview": "Previews/floorCornerRound.png",
+    "width": 1.1,
+    "depth": 1.1,
+    "keywords": "floorCornerRound Kenney"
+  },
+  {
+    "id": "kenney:floorFull",
+    "title": "地板整块",
+    "category": "建筑",
+    "file": "Models/floorFull.obj",
+    "preview": "Previews/floorFull.png",
+    "width": 2.0,
+    "depth": 2.0,
+    "keywords": "floorFull Kenney"
+  },
+  {
+    "id": "kenney:floorHalf",
+    "title": "地板半块",
+    "category": "建筑",
+    "file": "Models/floorHalf.obj",
+    "preview": "Previews/floorHalf.png",
+    "width": 1.0,
+    "depth": 2.0,
+    "keywords": "floorHalf Kenney"
+  },
+  {
+    "id": "kenney:kitchenBar",
+    "title": "厨房吧台",
+    "category": "厨房",
+    "file": "Models/kitchenBar.obj",
+    "preview": "Previews/kitchenBar.png",
+    "width": 0.86,
+    "depth": 0.42,
+    "keywords": "kitchenBar Kenney"
+  },
+  {
+    "id": "kenney:kitchenBarEnd",
+    "title": "厨房吧台端头",
+    "category": "厨房",
+    "file": "Models/kitchenBarEnd.obj",
+    "preview": "Previews/kitchenBarEnd.png",
+    "width": 0.203,
+    "depth": 0.42,
+    "keywords": "kitchenBarEnd Kenney"
+  },
+  {
+    "id": "kenney:kitchenBlender",
+    "title": "厨房搅拌机",
+    "category": "厨房",
+    "file": "Models/kitchenBlender.obj",
+    "preview": "Previews/kitchenBlender.png",
+    "width": 0.272,
+    "depth": 0.218,
+    "keywords": "kitchenBlender Kenney"
+  },
+  {
+    "id": "kenney:kitchenCabinet",
+    "title": "厨房柜",
+    "category": "厨房",
+    "file": "Models/kitchenCabinet.obj",
+    "preview": "Previews/kitchenCabinet.png",
+    "width": 0.86,
+    "depth": 0.9,
+    "keywords": "kitchenCabinet Kenney"
+  },
+  {
+    "id": "kenney:kitchenCabinetCornerInner",
+    "title": "内转角橱柜",
+    "category": "厨房",
+    "file": "Models/kitchenCabinetCornerInner.obj",
+    "preview": "Previews/kitchenCabinetCornerInner.png",
+    "width": 0.92,
+    "depth": 0.92,
+    "keywords": "kitchenCabinetCornerInner Kenney"
+  },
+  {
+    "id": "kenney:kitchenCabinetCornerRound",
+    "title": "圆角橱柜",
+    "category": "厨房",
+    "file": "Models/kitchenCabinetCornerRound.obj",
+    "preview": "Previews/kitchenCabinetCornerRound.png",
+    "width": 0.9,
+    "depth": 0.9,
+    "keywords": "kitchenCabinetCornerRound Kenney"
+  },
+  {
+    "id": "kenney:kitchenCabinetDrawer-1",
+    "title": "抽屉橱柜（款式二）",
+    "category": "厨房",
+    "file": "Models/kitchenCabinetDrawer 1.obj",
+    "preview": "Previews/kitchenCabinetDrawer 1.png",
+    "width": 0.86,
+    "depth": 0.9,
+    "keywords": "kitchenCabinetDrawer 1 Kenney"
+  },
+  {
+    "id": "kenney:kitchenCabinetDrawer",
+    "title": "抽屉橱柜",
+    "category": "厨房",
+    "file": "Models/kitchenCabinetDrawer.obj",
+    "preview": "Previews/kitchenCabinetDrawer.png",
+    "width": 0.86,
+    "depth": 0.64,
+    "keywords": "kitchenCabinetDrawer Kenney"
+  },
+  {
+    "id": "kenney:kitchenCabinetUpper",
+    "title": "厨房吊柜",
+    "category": "厨房",
+    "file": "Models/kitchenCabinetUpper.obj",
+    "preview": "Previews/kitchenCabinetUpper.png",
+    "width": 0.86,
+    "depth": 0.44,
+    "keywords": "kitchenCabinetUpper Kenney"
+  },
+  {
+    "id": "kenney:kitchenCabinetUpperCorner",
+    "title": "转角吊柜",
+    "category": "厨房",
+    "file": "Models/kitchenCabinetUpperCorner.obj",
+    "preview": "Previews/kitchenCabinetUpperCorner.png",
+    "width": 0.43,
+    "depth": 0.42,
+    "keywords": "kitchenCabinetUpperCorner Kenney"
+  },
+  {
+    "id": "kenney:kitchenCabinetUpperDouble",
+    "title": "双门吊柜",
+    "category": "厨房",
+    "file": "Models/kitchenCabinetUpperDouble.obj",
+    "preview": "Previews/kitchenCabinetUpperDouble.png",
+    "width": 0.86,
+    "depth": 0.44,
+    "keywords": "kitchenCabinetUpperDouble Kenney"
+  },
+  {
+    "id": "kenney:kitchenCabinetUpperLow",
+    "title": "矮吊柜",
+    "category": "厨房",
+    "file": "Models/kitchenCabinetUpperLow.obj",
+    "preview": "Previews/kitchenCabinetUpperLow.png",
+    "width": 0.86,
+    "depth": 0.44,
+    "keywords": "kitchenCabinetUpperLow Kenney"
+  },
+  {
+    "id": "kenney:kitchenCoffeeMachine",
+    "title": "厨房咖啡机",
+    "category": "厨房",
+    "file": "Models/kitchenCoffeeMachine.obj",
+    "preview": "Previews/kitchenCoffeeMachine.png",
+    "width": 0.379,
+    "depth": 0.48,
+    "keywords": "kitchenCoffeeMachine Kenney"
+  },
+  {
+    "id": "kenney:kitchenFridge",
+    "title": "厨房冰箱",
+    "category": "厨房",
+    "file": "Models/kitchenFridge.obj",
+    "preview": "Previews/kitchenFridge.png",
+    "width": 0.86,
+    "depth": 0.584,
+    "keywords": "kitchenFridge Kenney"
+  },
+  {
+    "id": "kenney:kitchenFridgeBuiltIn",
+    "title": "嵌入式冰箱",
+    "category": "厨房",
+    "file": "Models/kitchenFridgeBuiltIn.obj",
+    "preview": "Previews/kitchenFridgeBuiltIn.png",
+    "width": 0.86,
+    "depth": 0.9,
+    "keywords": "kitchenFridgeBuiltIn Kenney"
+  },
+  {
+    "id": "kenney:kitchenFridgeSmall",
+    "title": "小冰箱",
+    "category": "厨房",
+    "file": "Models/kitchenFridgeSmall.obj",
+    "preview": "Previews/kitchenFridgeSmall.png",
+    "width": 0.86,
+    "depth": 0.584,
+    "keywords": "kitchenFridgeSmall Kenney"
+  },
+  {
+    "id": "kenney:kitchenMicrowave",
+    "title": "厨房微波炉",
+    "category": "厨房",
+    "file": "Models/kitchenMicrowave.obj",
+    "preview": "Previews/kitchenMicrowave.png",
+    "width": 0.58,
+    "depth": 0.46,
+    "keywords": "kitchenMicrowave Kenney"
+  },
+  {
+    "id": "kenney:kitchenSink",
+    "title": "厨房水槽",
+    "category": "厨房",
+    "file": "Models/kitchenSink.obj",
+    "preview": "Previews/kitchenSink.png",
+    "width": 0.86,
+    "depth": 0.9,
+    "keywords": "kitchenSink Kenney"
+  },
+  {
+    "id": "kenney:kitchenStove",
+    "title": "厨房灶台",
+    "category": "厨房",
+    "file": "Models/kitchenStove.obj",
+    "preview": "Previews/kitchenStove.png",
+    "width": 0.86,
+    "depth": 0.9,
+    "keywords": "kitchenStove Kenney"
+  },
+  {
+    "id": "kenney:kitchenStoveElectric",
+    "title": "电磁灶",
+    "category": "厨房",
+    "file": "Models/kitchenStoveElectric.obj",
+    "preview": "Previews/kitchenStoveElectric.png",
+    "width": 0.86,
+    "depth": 0.9,
+    "keywords": "kitchenStoveElectric Kenney"
+  },
+  {
+    "id": "kenney:lampRoundFloor",
+    "title": "灯圆形落地",
+    "category": "灯具",
+    "file": "Models/lampRoundFloor.obj",
+    "preview": "Previews/lampRoundFloor.png",
+    "width": 0.304,
+    "depth": 0.351,
+    "keywords": "lampRoundFloor Kenney"
+  },
+  {
+    "id": "kenney:lampRoundTable",
+    "title": "灯圆形桌",
+    "category": "灯具",
+    "file": "Models/lampRoundTable.obj",
+    "preview": "Previews/lampRoundTable.png",
+    "width": 0.304,
+    "depth": 0.351,
+    "keywords": "lampRoundTable Kenney"
+  },
+  {
+    "id": "kenney:lampSquareCeiling",
+    "title": "灯方形吸顶",
+    "category": "灯具",
+    "file": "Models/lampSquareCeiling.obj",
+    "preview": "Previews/lampSquareCeiling.png",
+    "width": 0.24,
+    "depth": 0.24,
+    "keywords": "lampSquareCeiling Kenney"
+  },
+  {
+    "id": "kenney:lampSquareFloor",
+    "title": "灯方形落地",
+    "category": "灯具",
+    "file": "Models/lampSquareFloor.obj",
+    "preview": "Previews/lampSquareFloor.png",
+    "width": 0.24,
+    "depth": 0.24,
+    "keywords": "lampSquareFloor Kenney"
+  },
+  {
+    "id": "kenney:lampSquareTable",
+    "title": "灯方形桌",
+    "category": "灯具",
+    "file": "Models/lampSquareTable.obj",
+    "preview": "Previews/lampSquareTable.png",
+    "width": 0.24,
+    "depth": 0.24,
+    "keywords": "lampSquareTable Kenney"
+  },
+  {
+    "id": "kenney:laptop",
+    "title": "笔记本电脑",
+    "category": "书房",
+    "file": "Models/laptop.obj",
+    "preview": "Previews/laptop.png",
+    "width": 0.528,
+    "depth": 0.48,
+    "keywords": "laptop Kenney"
+  },
+  {
+    "id": "kenney:loungeChair",
+    "title": "休闲椅",
+    "category": "客厅餐厅",
+    "file": "Models/loungeChair.obj",
+    "preview": "Previews/loungeChair.png",
+    "width": 0.98,
+    "depth": 0.82,
+    "keywords": "loungeChair Kenney"
+  },
+  {
+    "id": "kenney:loungeChairRelax",
+    "title": "休闲躺椅",
+    "category": "客厅餐厅",
+    "file": "Models/loungeChairRelax.obj",
+    "preview": "Previews/loungeChairRelax.png",
+    "width": 0.98,
+    "depth": 1.349,
+    "keywords": "loungeChairRelax Kenney"
+  },
+  {
+    "id": "kenney:loungeSofa",
+    "title": "休闲沙发",
+    "category": "客厅餐厅",
+    "file": "Models/loungeSofa.obj",
+    "preview": "Previews/loungeSofa.png",
+    "width": 1.96,
+    "depth": 0.82,
+    "keywords": "loungeSofa Kenney"
+  },
+  {
+    "id": "kenney:loungeSofaCorner",
+    "title": "休闲沙发转角",
+    "category": "客厅餐厅",
+    "file": "Models/loungeSofaCorner.obj",
+    "preview": "Previews/loungeSofaCorner.png",
+    "width": 1.96,
+    "depth": 1.96,
+    "keywords": "loungeSofaCorner Kenney"
+  },
+  {
+    "id": "kenney:loungeSofaLong",
+    "title": "休闲沙发加长",
+    "category": "客厅餐厅",
+    "file": "Models/loungeSofaLong.obj",
+    "preview": "Previews/loungeSofaLong.png",
+    "width": 1.96,
+    "depth": 1.64,
+    "keywords": "loungeSofaLong Kenney"
+  },
+  {
+    "id": "kenney:loungeSofaOttoman",
+    "title": "休闲沙发脚凳",
+    "category": "客厅餐厅",
+    "file": "Models/loungeSofaOttoman.obj",
+    "preview": "Previews/loungeSofaOttoman.png",
+    "width": 0.88,
+    "depth": 0.9,
+    "keywords": "loungeSofaOttoman Kenney"
+  },
+  {
+    "id": "kenney:paneling",
+    "title": "护墙板",
+    "category": "建筑",
+    "file": "Models/paneling.obj",
+    "preview": "Previews/paneling.png",
+    "width": 1.0,
+    "depth": 0.06,
+    "keywords": "paneling Kenney"
+  },
+  {
+    "id": "kenney:pillow",
+    "title": "枕头",
+    "category": "卧室",
+    "file": "Models/pillow.obj",
+    "preview": "Previews/pillow.png",
+    "width": 0.46,
+    "depth": 0.177,
+    "keywords": "pillow Kenney"
+  },
+  {
+    "id": "kenney:pillowLong",
+    "title": "枕头加长",
+    "category": "卧室",
+    "file": "Models/pillowLong.obj",
+    "preview": "Previews/pillowLong.png",
+    "width": 0.773,
+    "depth": 0.177,
+    "keywords": "pillowLong Kenney"
+  },
+  {
+    "id": "kenney:plantSmall1",
+    "title": "绿植小型1",
+    "category": "装饰",
+    "file": "Models/plantSmall1.obj",
+    "preview": "Previews/plantSmall1.png",
+    "width": 0.189,
+    "depth": 0.189,
+    "keywords": "plantSmall1 Kenney"
+  },
+  {
+    "id": "kenney:plantSmall2",
+    "title": "绿植小型2",
+    "category": "装饰",
+    "file": "Models/plantSmall2.obj",
+    "preview": "Previews/plantSmall2.png",
+    "width": 0.189,
+    "depth": 0.189,
+    "keywords": "plantSmall2 Kenney"
+  },
+  {
+    "id": "kenney:plantSmall3",
+    "title": "绿植小型3",
+    "category": "装饰",
+    "file": "Models/plantSmall3.obj",
+    "preview": "Previews/plantSmall3.png",
+    "width": 0.196,
+    "depth": 0.17,
+    "keywords": "plantSmall3 Kenney"
+  },
+  {
+    "id": "kenney:pottedPlant",
+    "title": "盆栽",
+    "category": "装饰",
+    "file": "Models/pottedPlant.obj",
+    "preview": "Previews/pottedPlant.png",
+    "width": 0.424,
+    "depth": 0.483,
+    "keywords": "pottedPlant Kenney"
+  },
+  {
+    "id": "kenney:radio",
+    "title": "收音机",
+    "category": "客厅餐厅",
+    "file": "Models/radio.obj",
+    "preview": "Previews/radio.png",
+    "width": 0.63,
+    "depth": 0.195,
+    "keywords": "radio Kenney"
+  },
+  {
+    "id": "kenney:rugRectangle",
+    "title": "地毯长方形",
+    "category": "装饰",
+    "file": "Models/rugRectangle.obj",
+    "preview": "Previews/rugRectangle.png",
+    "width": 3.14,
+    "depth": 1.84,
+    "keywords": "rugRectangle Kenney"
+  },
+  {
+    "id": "kenney:rugRound",
+    "title": "地毯圆形",
+    "category": "装饰",
+    "file": "Models/rugRound.obj",
+    "preview": "Previews/rugRound.png",
+    "width": 1.84,
+    "depth": 1.84,
+    "keywords": "rugRound Kenney"
+  },
+  {
+    "id": "kenney:rugRounded",
+    "title": "地毯圆角",
+    "category": "装饰",
+    "file": "Models/rugRounded.obj",
+    "preview": "Previews/rugRounded.png",
+    "width": 3.14,
+    "depth": 1.84,
+    "keywords": "rugRounded Kenney"
+  },
+  {
+    "id": "kenney:rugSquare",
+    "title": "地毯方形",
+    "category": "装饰",
+    "file": "Models/rugSquare.obj",
+    "preview": "Previews/rugSquare.png",
+    "width": 1.809,
+    "depth": 1.84,
+    "keywords": "rugSquare Kenney"
+  },
+  {
+    "id": "kenney:shower",
+    "title": "淋浴",
+    "category": "卫浴洗衣",
+    "file": "Models/shower.obj",
+    "preview": "Previews/shower.png",
+    "width": 1.124,
+    "depth": 1.164,
+    "keywords": "shower Kenney"
+  },
+  {
+    "id": "kenney:sideTable",
+    "title": "边桌",
+    "category": "客厅餐厅",
+    "file": "Models/sideTable.obj",
+    "preview": "Previews/sideTable.png",
+    "width": 1.069,
+    "depth": 0.44,
+    "keywords": "sideTable Kenney"
+  },
+  {
+    "id": "kenney:sideTableDrawers",
+    "title": "边桌抽屉",
+    "category": "客厅餐厅",
+    "file": "Models/sideTableDrawers.obj",
+    "preview": "Previews/sideTableDrawers.png",
+    "width": 1.069,
+    "depth": 0.445,
+    "keywords": "sideTableDrawers Kenney"
+  },
+  {
+    "id": "kenney:speaker",
+    "title": "音箱",
+    "category": "客厅餐厅",
+    "file": "Models/speaker.obj",
+    "preview": "Previews/speaker.png",
+    "width": 0.296,
+    "depth": 0.296,
+    "keywords": "speaker Kenney"
+  },
+  {
+    "id": "kenney:speakerSmall",
+    "title": "音箱小型",
+    "category": "客厅餐厅",
+    "file": "Models/speakerSmall.obj",
+    "preview": "Previews/speakerSmall.png",
+    "width": 0.296,
+    "depth": 0.266,
+    "keywords": "speakerSmall Kenney"
+  },
+  {
+    "id": "kenney:stoolBar",
+    "title": "凳子吧台",
+    "category": "客厅餐厅",
+    "file": "Models/stoolBar.obj",
+    "preview": "Previews/stoolBar.png",
+    "width": 0.531,
+    "depth": 0.46,
+    "keywords": "stoolBar Kenney"
+  },
+  {
+    "id": "kenney:stoolBarSquare",
+    "title": "凳子吧台方形",
+    "category": "客厅餐厅",
+    "file": "Models/stoolBarSquare.obj",
+    "preview": "Previews/stoolBarSquare.png",
+    "width": 0.307,
+    "depth": 0.295,
+    "keywords": "stoolBarSquare Kenney"
+  },
+  {
+    "id": "kenney:table",
+    "title": "桌子",
+    "category": "客厅餐厅",
+    "file": "Models/table.obj",
+    "preview": "Previews/table.png",
+    "width": 1.683,
+    "depth": 0.895,
+    "keywords": "table Kenney"
+  },
+  {
+    "id": "kenney:tableCloth",
+    "title": "桌子桌布",
+    "category": "客厅餐厅",
+    "file": "Models/tableCloth.obj",
+    "preview": "Previews/tableCloth.png",
+    "width": 1.683,
+    "depth": 0.895,
+    "keywords": "tableCloth Kenney"
+  },
+  {
+    "id": "kenney:tableCoffee",
+    "title": "桌子茶几",
+    "category": "客厅餐厅",
+    "file": "Models/tableCoffee.obj",
+    "preview": "Previews/tableCoffee.png",
+    "width": 1.322,
+    "depth": 0.8,
+    "keywords": "tableCoffee Kenney"
+  },
+  {
+    "id": "kenney:tableCoffeeGlass",
+    "title": "桌子茶几玻璃",
+    "category": "客厅餐厅",
+    "file": "Models/tableCoffeeGlass.obj",
+    "preview": "Previews/tableCoffeeGlass.png",
+    "width": 1.322,
+    "depth": 0.8,
+    "keywords": "tableCoffeeGlass Kenney"
+  },
+  {
+    "id": "kenney:tableCoffeeGlassSquare",
+    "title": "桌子茶几玻璃方形",
+    "category": "客厅餐厅",
+    "file": "Models/tableCoffeeGlassSquare.obj",
+    "preview": "Previews/tableCoffeeGlassSquare.png",
+    "width": 0.8,
+    "depth": 0.8,
+    "keywords": "tableCoffeeGlassSquare Kenney"
+  },
+  {
+    "id": "kenney:tableCoffeeSquare",
+    "title": "桌子茶几方形",
+    "category": "客厅餐厅",
+    "file": "Models/tableCoffeeSquare.obj",
+    "preview": "Previews/tableCoffeeSquare.png",
+    "width": 0.8,
+    "depth": 0.8,
+    "keywords": "tableCoffeeSquare Kenney"
+  },
+  {
+    "id": "kenney:tableCross",
+    "title": "桌子交叉腿",
+    "category": "客厅餐厅",
+    "file": "Models/tableCross.obj",
+    "preview": "Previews/tableCross.png",
+    "width": 1.704,
+    "depth": 0.895,
+    "keywords": "tableCross Kenney"
+  },
+  {
+    "id": "kenney:tableCrossCloth",
+    "title": "桌子交叉腿桌布",
+    "category": "客厅餐厅",
+    "file": "Models/tableCrossCloth.obj",
+    "preview": "Previews/tableCrossCloth.png",
+    "width": 1.704,
+    "depth": 0.895,
+    "keywords": "tableCrossCloth Kenney"
+  },
+  {
+    "id": "kenney:tableGlass",
+    "title": "桌子玻璃",
+    "category": "客厅餐厅",
+    "file": "Models/tableGlass.obj",
+    "preview": "Previews/tableGlass.png",
+    "width": 1.683,
+    "depth": 0.895,
+    "keywords": "tableGlass Kenney"
+  },
+  {
+    "id": "kenney:tableRound",
+    "title": "桌子圆形",
+    "category": "客厅餐厅",
+    "file": "Models/tableRound.obj",
+    "preview": "Previews/tableRound.png",
+    "width": 1.386,
+    "depth": 1.6,
+    "keywords": "tableRound Kenney"
+  },
+  {
+    "id": "kenney:televisionAntenna",
+    "title": "电视天线",
+    "category": "客厅餐厅",
+    "file": "Models/televisionAntenna.obj",
+    "preview": "Previews/televisionAntenna.png",
+    "width": 0.529,
+    "depth": 0.16,
+    "keywords": "televisionAntenna Kenney"
+  },
+  {
+    "id": "kenney:televisionModern",
+    "title": "电视现代",
+    "category": "客厅餐厅",
+    "file": "Models/televisionModern.obj",
+    "preview": "Previews/televisionModern.png",
+    "width": 1.37,
+    "depth": 0.257,
+    "keywords": "televisionModern Kenney"
+  },
+  {
+    "id": "kenney:televisionVintage",
+    "title": "电视复古",
+    "category": "客厅餐厅",
+    "file": "Models/televisionVintage.obj",
+    "preview": "Previews/televisionVintage.png",
+    "width": 0.82,
+    "depth": 0.54,
+    "keywords": "televisionVintage Kenney"
+  },
+  {
+    "id": "kenney:toilet",
+    "title": "马桶",
+    "category": "卫浴洗衣",
+    "file": "Models/toilet.obj",
+    "preview": "Previews/toilet.png",
+    "width": 0.625,
+    "depth": 0.954,
+    "keywords": "toilet Kenney"
+  },
+  {
+    "id": "kenney:trashcan",
+    "title": "垃圾桶",
+    "category": "装饰",
+    "file": "Models/trashcan.obj",
+    "preview": "Previews/trashcan.png",
+    "width": 0.415,
+    "depth": 0.468,
+    "keywords": "trashcan Kenney"
+  },
+  {
+    "id": "kenney:wall",
+    "title": "墙",
+    "category": "建筑",
+    "file": "Models/wall.obj",
+    "preview": "Previews/wall.png",
+    "width": 2.0,
+    "depth": 0.1,
+    "keywords": "wall Kenney"
+  },
+  {
+    "id": "kenney:wallCorner",
+    "title": "墙转角",
+    "category": "建筑",
+    "file": "Models/wallCorner.obj",
+    "preview": "Previews/wallCorner.png",
+    "width": 1.1,
+    "depth": 1.1,
+    "keywords": "wallCorner Kenney"
+  },
+  {
+    "id": "kenney:wallCornerRond",
+    "title": "墙转角圆弧",
+    "category": "建筑",
+    "file": "Models/wallCornerRond.obj",
+    "preview": "Previews/wallCornerRond.png",
+    "width": 1.1,
+    "depth": 1.1,
+    "keywords": "wallCornerRond Kenney"
+  },
+  {
+    "id": "kenney:wallDoorway",
+    "title": "墙门洞",
+    "category": "建筑",
+    "file": "Models/wallDoorway.obj",
+    "preview": "Previews/wallDoorway.png",
+    "width": 2.0,
+    "depth": 0.178,
+    "keywords": "wallDoorway Kenney"
+  },
+  {
+    "id": "kenney:wallDoorwayWide",
+    "title": "墙门洞加宽",
+    "category": "建筑",
+    "file": "Models/wallDoorwayWide.obj",
+    "preview": "Previews/wallDoorwayWide.png",
+    "width": 2.0,
+    "depth": 0.178,
+    "keywords": "wallDoorwayWide Kenney"
+  },
+  {
+    "id": "kenney:wallHalf",
+    "title": "墙半块",
+    "category": "建筑",
+    "file": "Models/wallHalf.obj",
+    "preview": "Previews/wallHalf.png",
+    "width": 1.0,
+    "depth": 0.1,
+    "keywords": "wallHalf Kenney"
+  },
+  {
+    "id": "kenney:wallWindow",
+    "title": "墙窗",
+    "category": "建筑",
+    "file": "Models/wallWindow.obj",
+    "preview": "Previews/wallWindow.png",
+    "width": 2.0,
+    "depth": 0.178,
+    "keywords": "wallWindow Kenney"
+  },
+  {
+    "id": "kenney:wallWindowSlide",
+    "title": "墙窗推拉",
+    "category": "建筑",
+    "file": "Models/wallWindowSlide.obj",
+    "preview": "Previews/wallWindowSlide.png",
+    "width": 2.0,
+    "depth": 0.178,
+    "keywords": "wallWindowSlide Kenney"
+  },
+  {
+    "id": "kenney:washer",
+    "title": "洗衣机",
+    "category": "卫浴洗衣",
+    "file": "Models/washer.obj",
+    "preview": "Previews/washer.png",
+    "width": 0.78,
+    "depth": 0.78,
+    "keywords": "washer Kenney"
+  },
+  {
+    "id": "kenney:washerDryerStacked",
+    "title": "叠放洗烘机",
+    "category": "卫浴洗衣",
+    "file": "Models/washerDryerStacked.obj",
+    "preview": "Previews/washerDryerStacked.png",
+    "width": 0.78,
+    "depth": 0.78,
+    "keywords": "washerDryerStacked Kenney"
+  }
+]

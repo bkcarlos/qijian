@@ -1,0 +1,63 @@
+name: HomeKitReadOnly
+options:
+  bundleIdPrefix: com.carlosbk
+  deploymentTarget:
+    iOS: "16.0"
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    DEVELOPMENT_TEAM: ""
+    CODE_SIGN_STYLE: Automatic
+targets:
+  HomeKitReadOnly:
+    type: application
+    platform: iOS
+    info:
+      path: App/Info.plist
+      properties:
+        CKSharingSupported: true
+        CFBundleDisplayName: 栖间
+        CFBundleName: 栖间
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+    sources:
+      - App
+      - path: Resources/Furniture
+        type: folder
+        buildPhase: resources
+      - Sources/HomeKitReadOnlyCore
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.carlosbk.homekitreadonly
+        PRODUCT_NAME: 栖间
+        PRODUCT_MODULE_NAME: HomeKitReadOnly
+        EXECUTABLE_NAME: HomeKitReadOnly
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        SUPPORTS_MACCATALYST: YES
+        SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: NO
+        DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER: NO
+        TARGETED_DEVICE_FAMILY: "1,2"
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleDisplayName: 栖间
+        INFOPLIST_KEY_NSHomeKitUsageDescription: 读取家庭和设备，并在本机允许控制后管理房间、设备及场景。
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        CODE_SIGN_ENTITLEMENTS: App/HomeKitReadOnly.entitlements
+        "CODE_SIGN_ENTITLEMENTS[sdk=iphoneos*]": App/HomeKitMobile.entitlements
+        "CODE_SIGN_ENTITLEMENTS[sdk=iphonesimulator*]": App/HomeKitMobile.entitlements
+        INFOPLIST_KEY_NSCameraUsageDescription: 扫描设备上的配对码，将配件添加到 Apple 家庭。
+        INFOPLIST_KEY_NSLocalNetworkUsageDescription: 连接并管理家庭网络中的智能设备。
+        INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents: YES
+        MARKETING_VERSION: "0.12.4"
+        CURRENT_PROJECT_VERSION: "42"
+      configs:
+        Debug:
+          CLOUDKIT_ENVIRONMENT: Development
+        Release:
+          CLOUDKIT_ENVIRONMENT: Production
+    dependencies:
+      - sdk: CloudKit.framework
+      - sdk: HomeKit.framework
+      - sdk: Network.framework
+      - sdk: PDFKit.framework
+      - sdk: SceneKit.framework

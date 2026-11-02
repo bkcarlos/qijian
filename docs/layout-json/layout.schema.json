@@ -1,0 +1,173 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "我的家空间布局 JSON v1",
+  "description": "文件小于 2 MB；同类组件 id 唯一；同一真实房间不能有两个轮廓；几何和房间绑定由应用额外校验。",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "placeDevices",
+    "rooms",
+    "furniture"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "placeDevices": {
+      "type": "boolean"
+    },
+    "rooms": {
+      "type": "array",
+      "maxItems": 100,
+      "items": {
+        "$ref": "#/$defs/room"
+      }
+    },
+    "furniture": {
+      "type": "array",
+      "maxItems": 500,
+      "items": {
+        "$ref": "#/$defs/furniture"
+      }
+    }
+  },
+  "$defs": {
+    "point": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "x",
+        "y"
+      ],
+      "properties": {
+        "x": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "y": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "room": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "points",
+        "wallHeight"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "points": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 100,
+          "items": {
+            "$ref": "#/$defs/point"
+          },
+          "description": "依次沿边界排列，不重复首点；运行时进一步验证非退化、无自交。"
+        },
+        "wallHeight": {
+          "type": "number",
+          "minimum": 0.1,
+          "maximum": 3
+        }
+      }
+    },
+    "furniture": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "kind",
+        "point",
+        "width",
+        "depth",
+        "rotation"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "kind": {
+          "enum": [
+            "bed",
+            "sofa",
+            "table",
+            "cabinet",
+            "plant",
+            "bath",
+            "toilet",
+            "sink",
+            "stove",
+            "fridge",
+            "counter",
+            "rangeHood",
+            "model"
+          ]
+        },
+        "point": {
+          "$ref": "#/$defs/point"
+        },
+        "width": {
+          "type": "number",
+          "minimum": 0.005,
+          "maximum": 1
+        },
+        "depth": {
+          "type": "number",
+          "minimum": 0.005,
+          "maximum": 1
+        },
+        "rotation": {
+          "type": "number",
+          "description": "角度，2D 正向顺时针；建议 0～359。"
+        },
+        "assetID": {
+          "type": "string",
+          "pattern": "^(kenney|custom):[A-Za-z0-9_-]{1,100}$"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "kind": {
+                "const": "model"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "assetID"
+            ]
+          },
+          "else": {
+            "not": {
+              "required": [
+                "assetID"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

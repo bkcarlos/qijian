@@ -1,0 +1,10 @@
+Kenney Furniture Pack 1.0 (120 OBJ models), CC0.
+Author: Kenney (https://kenney.nl)
+Official current product page: https://kenney.nl/assets/furniture-kit
+This bundled release was downloaded from the author's OpenGameArt upload:
+https://opengameart.org/content/furniture-kit
+https://opengameart.org/sites/default/files/kenney_furniturePack.zip
+The current website advertises a later 140-file pack; this is the 120-model release.
+Original OBJ/MTL and isometric thumbnails retained. Orthographic plan previews,
+Chinese labels, categories, and placement metadata generated for this app.
+Original license: LICENSE-Kenney.txt

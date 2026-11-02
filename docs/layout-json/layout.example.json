@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "placeDevices": true,
+  "rooms": [
+    {
+      "id": "room-living",
+      "name": "客厅",
+      "points": [{"x":0.1,"y":0.1},{"x":0.9,"y":0.1},{"x":0.9,"y":0.9},{"x":0.1,"y":0.9}],
+      "wallHeight": 0.6
+    }
+  ],
+  "furniture": [
+    {"id":"sofa-1","kind":"sofa","point":{"x":0.5,"y":0.25},"width":0.3,"depth":0.1,"rotation":0},
+    {"id":"table-1","kind":"table","point":{"x":0.5,"y":0.5},"width":0.18,"depth":0.12,"rotation":0}
+  ]
+}

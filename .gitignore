@@ -1,0 +1,17 @@
+.build/
+build/
+build-ios/
+work/
+*.xcodeproj/
+.DS_Store
+*.xcuserstate
+*.token
+inventory*.json
+DerivedData/
+*.mobileprovision
+*.provisionprofile
+*.p12
+*.ipa
+*.dmg
+*.app/
+xcuserdata/
